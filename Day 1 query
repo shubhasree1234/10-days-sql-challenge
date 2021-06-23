@@ -1,0 +1,13 @@
+Problem Statement - Use the given data to Enlist all the Drivers, earning less than or equal to 20k or earning more than or equal to 50k.
+
+Table Name- Drivers
+IDE- MS SQL SERVER 18
+
+-- Use table drivers
+SELECT * FROM Drivers
+
+SELECT *
+FROM Drivers
+WHERE salary <= 20000 or salary >= 50000
+ORDER BY salary
+
