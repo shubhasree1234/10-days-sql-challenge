@@ -1,5 +1,5 @@
 Problem Statement - Use the given data to enlist the employees who have received raise in their salary for at least 3 consecutive years.
-Table - employee
+Table - employee (employee table renamed as employee)
 IDE - MySQL server
 
 select * from work.employee;
